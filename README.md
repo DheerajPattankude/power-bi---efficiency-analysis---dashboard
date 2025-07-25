@@ -9,6 +9,6 @@ Currently, it includes:
            - insites, charts, key points.
 - push to - power bi server, creat:
                        - desktop layout.
-                       - mobile layout.
+                       - mobile layout/  link :-(https://app.powerbi.com/links/Vlqcq7yMlV?ctid=60794dde-6928-43f3-92f5-923c26eca7cd&pbi_source=linkShare)
 - publish to team for further analysis
   
